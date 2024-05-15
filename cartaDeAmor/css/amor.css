@@ -1,0 +1,74 @@
+body{background-color:#fcd1c6;}
+
+#Caja{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+
+.cinta{
+    width: 200px;
+    height: 50px;
+    background-color:beige;
+}
+
+
+.carta{
+
+    width: 450px;
+    height: auto;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.caja_de_carta{
+    
+    display: flex;
+    justify-content: end;
+    max-height: 300px;
+    flex-direction: row;
+    
+}
+
+
+.texto{
+    width: 85%;
+    height: auto;
+    
+}
+
+
+
+
+.primera_foto{
+    width: auto;
+    height: auto;
+}
+
+
+
+
+
+
+
+.texto_medio{
+    height: 250px;
+    width: 100%; 
+}
+
+
+.amor{
+    width: 150px;
+    height: 100%;
+    border-radius: 30px 30px 20px 0px;
+}
+
+
+.amor2{
+    width: 150px;
+    height: 220px;
+    border-radius: 30px 10px 25px 25px;
+}

@@ -38,6 +38,7 @@ body{background-color:#fcd1c6;}
 
 
 .texto_bajo{
+    margin-top: 70px;
     
 
 
@@ -60,8 +61,8 @@ body{background-color:#fcd1c6;}
 .texto_medio{
     height: 250px;
     width: 100%;
-    margin-top: 170px;
-    
+    margin-top: 150px;
+
 }
 
 

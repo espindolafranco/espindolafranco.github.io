@@ -18,10 +18,13 @@ body{background-color:#fcd1c6;}
 
 .carta{
 
-    width: 450px;
+    width: 400px;
     height: auto;
     background-color: white;
     border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
 }
 
 .caja_de_carta{
@@ -34,10 +37,10 @@ body{background-color:#fcd1c6;}
 }
 
 
-.texto{
-    width: 85%;
-    height: auto;
-    
+.texto_bajo{
+    margin-top: -20px;
+
+
 }
 
 
@@ -72,3 +75,4 @@ body{background-color:#fcd1c6;}
     height: 220px;
     border-radius: 30px 10px 25px 25px;
 }
+
